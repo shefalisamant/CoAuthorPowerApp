@@ -11,11 +11,12 @@
     "Screen1": 3,
     "Screen2": 4,
     "Screen3": 10,
-    "ScreenContainer1": 5
+    "ScreenContainer1": 5,
+    "TextInput1": 12
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/20/2022 04:51:09",
+  "HeaderLastSavedDateTimeUTC": "10/20/2022 04:52:14",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -40,7 +41,8 @@
   "OrderXMLTemplate": {
     "button": 2,
     "groupContainer": 0,
-    "label": 1
+    "label": 1,
+    "text": 3
   },
   "PublishOrderIndices": {
     "App": 0,
@@ -52,7 +54,8 @@
     "Screen1": 2,
     "Screen2": 3,
     "Screen3": 9,
-    "ScreenContainer1": 4
+    "ScreenContainer1": 4,
+    "TextInput1": 0
   },
   "ResourcesJsonIndices": {
     "Image-GBIS_Screenshot1": 1,
