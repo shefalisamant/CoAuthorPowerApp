@@ -1,23 +1,83 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 12,
+    "Button2": 11,
+    "FooterContainer1": 9,
+    "HeaderContainer1": 6,
+    "Label1": 8,
+    "MainSectionContainer1": 7,
+    "Screen1": 3,
+    "Screen2": 4,
+    "Screen3": 10,
+    "ScreenContainer1": 5,
+    "TextInput1": 13
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "10/20/2022 05:01:30",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "GBIS_Screenshot1": "0001.png",
+    "getsitelogo (2)": "0002.jpg",
+    "getsitelogo (4)": "0003.jpg"
+  },
+  "LocalResourceRootPaths": {
+    "GBIS_Screenshot1": "https://docserverpwaprodseau.blob.core.windows.net/6a9aa237-ed03-4783-af2c-2fca61614c7c-1/resource/Assets0Images00001.png?sv=2017-04-17&sr=b&sig=JXWlW7hunJwNoi20JeiAIhra4i977IkKVzrQJLUzIPU%3D&spr=https&se=2022-10-21T05%3A07%3A36Z&sp=r",
+    "getsitelogo (2)": "https://docserverpwaprodseau.blob.core.windows.net/6a9aa237-ed03-4783-af2c-2fca61614c7c-1/resource/Assets0Images00002.jpg?sv=2017-04-17&sr=b&sig=boow8DXvh%2B2AQrz6zyNwQx1hnIUlX0ogTELB4w7J8i8%3D&spr=https&se=2022-10-21T05%3A07%3A36Z&sp=r",
+    "getsitelogo (4)": "https://docserverpwaprodseau.blob.core.windows.net/6a9aa237-ed03-4783-af2c-2fca61614c7c-1/resource/Assets0Images00003.jpg?sv=2017-04-17&sr=b&sig=SUwBT4Cvxy7kXPdrdjGx2kqU83xQKvl2lFo%2FmFeOF%2Fg%3D&spr=https&se=2022-10-21T05%3A07%3A36Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "OrderXMLTemplate": {
+    "button": 2,
+    "groupContainer": 0,
+    "label": 1,
+    "text": 3
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 5,
+    "Button2": 7,
+    "FooterContainer1": 4,
+    "HeaderContainer1": 1,
+    "Label1": 3,
+    "MainSectionContainer1": 2,
+    "Screen1": 2,
+    "Screen2": 3,
+    "Screen3": 9,
+    "ScreenContainer1": 0,
+    "TextInput1": 6
+  },
+  "ResourcesJsonIndices": {
+    "Image-GBIS_Screenshot1": 1,
+    "Image-getsitelogo (2)": 2,
+    "Image-getsitelogo (4)": 3,
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0510639,
+    "ControlCount": {
+      "button": 2,
+      "groupContainer": 4,
+      "label": 1,
+      "screen": 3,
+      "text": 1
+    },
+    "DeserializationLoadTime": 0.4287649,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }

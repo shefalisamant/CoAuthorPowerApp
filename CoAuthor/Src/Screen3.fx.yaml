@@ -9,6 +9,12 @@ Screen3 As screen:
         Y: =40
         ZIndex: =1
 
+    TextInput1 As text:
+        Default: ="Text input"
+        X: =12
+        Y: =216
+        ZIndex: =2
+
     Button2 As button:
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
@@ -21,11 +27,5 @@ Screen3 As screen:
         Text: ="Button"
         X: =40
         Y: =512
-        ZIndex: =2
-
-    TextInput1 As text:
-        Default: ="Text input"
-        X: =12
-        Y: =216
         ZIndex: =2
 
