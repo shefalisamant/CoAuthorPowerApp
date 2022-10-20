@@ -3,3 +3,9 @@ Screen3 As screen:
     Fill: =RGBA(149, 149, 149, 1)
     LoadingSpinnerColor: =RGBA(30, 14, 91, 1)
 
+    Button1 As button:
+        Text: ="Button"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
