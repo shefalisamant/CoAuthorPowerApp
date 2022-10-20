@@ -1,58 +1,23 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Label1": 11,
-    "Screen1": 3
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/20/2022 04:48:17",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {
-    "GBIS_Screenshot1": "95e3dfcf-7521-4b62-8e5d-d6afec98bacb.png"
-  },
-  "LocalResourceRootPaths": {
-    "GBIS_Screenshot1": "https://docserverpwaprodseau.blob.core.windows.net/6d1326e3-545c-4260-886c-192099c10ffb-1/resource/96eef613-055d-4433-a566-995247fd11fa.png?sv=2017-04-17&sr=b&sig=mwLmWzRmlLdFAjwZZ1Mwij5V%2FmV2ykSWAprfgoeh99s%3D&spr=https&se=2022-10-21T04%3A59%3A25Z&sp=r"
-  },
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "label": 0
-  },
-  "PublishOrderIndices": {
-    "App": 0,
-    "Label1": 0,
-    "Screen1": 0
-  },
-  "ResourcesJsonIndices": {
-    "Image-GBIS_Screenshot1": 1,
-    "Image-SampleImage": 0
-  },
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.1875682,
-    "ControlCount": {
-      "gallery": 1,
-      "galleryTemplate": 1,
-      "icon": 1,
-      "image": 1,
-      "label": 2,
-      "rectangle": 1,
-      "screen": 1
-    },
-    "DeserializationLoadTime": 0.678248,
-    "ErrorCount": 0
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }

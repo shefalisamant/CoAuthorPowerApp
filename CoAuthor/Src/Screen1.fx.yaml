@@ -1,13 +1,6 @@
 Screen1 As screen:
     BackgroundImage: =GBIS_Screenshot1
+    Fill: =RGBA(242, 239, 223, 1)
     ImagePosition: =ImagePosition.Center
-
-    Label1 As label:
-        Height: =47
-        Size: =33
-        Text: ="CoAuthor App"
-        Width: =306
-        X: =740
-        Y: =32
-        ZIndex: =1
+    LoadingSpinnerColor: =RGBA(30, 14, 91, 1)
 
