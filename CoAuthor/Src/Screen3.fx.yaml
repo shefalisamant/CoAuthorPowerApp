@@ -1,0 +1,5 @@
+Screen3 As screen:
+    BackgroundImage: ='getsitelogo (4)'
+    Fill: =RGBA(149, 149, 149, 1)
+    LoadingSpinnerColor: =RGBA(30, 14, 91, 1)
+
