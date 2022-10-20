@@ -1,6 +1,9 @@
 Screen1 As screen:
+    Fill: =RGBA(242, 239, 223, 1)
+    LoadingSpinnerColor: =RGBA(30, 14, 91, 1)
 
     "Gallery1 As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver4.0'":
+        BorderColor: =RGBA(92, 74, 168, 1)
         Items: =CustomGallerySample
         Layout: =Layout.Vertical
         TemplatePadding: =0
@@ -10,6 +13,9 @@ Screen1 As screen:
         ZIndex: =1
 
         Image1 As image:
+            BorderColor: =RGBA(92, 74, 168, 1)
+            DisabledBorderColor: =RGBA(166, 166, 166, 1)
+            DisabledFill: =RGBA(244, 244, 244, 1)
             Height: =128
             OnSelect: =Select(Parent)
             Width: =128
@@ -18,12 +24,16 @@ Screen1 As screen:
             ZIndex: =1
 
         Title1 As label:
+            Color: =RGBA(0, 0, 0, 1)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FontWeight: =FontWeight.Semibold
             Height: =Self.Size * 1.8
             OnSelect: =Select(Parent)
             PaddingBottom: =0
             PaddingLeft: =0
             PaddingRight: =0
             PaddingTop: =0
+            Size: =20
             Text: =ThisItem.SampleHeading
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - Image1.Width - 104
@@ -32,12 +42,15 @@ Screen1 As screen:
             ZIndex: =2
 
         Subtitle1 As label:
+            Color: =RGBA(0, 0, 0, 1)
+            DisabledColor: =RGBA(166, 166, 166, 1)
             Height: =Self.Size * 1.8
             OnSelect: =Select(Parent)
             PaddingBottom: =0
             PaddingLeft: =0
             PaddingRight: =0
             PaddingTop: =0
+            Size: =18
             Text: =ThisItem.SampleText
             VerticalAlign: =VerticalAlign.Top
             Width: =Title1.Width
@@ -47,6 +60,10 @@ Screen1 As screen:
 
         NextArrow1 As icon.ChevronRight:
             AccessibleLabel: =Self.Tooltip
+            BorderColor: =RGBA(92, 74, 168, 1)
+            Color: =RGBA(92, 74, 168, 1)
+            DisabledBorderColor: =RGBA(166, 166, 166, 1)
+            DisabledColor: =RGBA(244, 244, 244, 1)
             Height: =60
             Icon: =Icon.ChevronRight
             OnSelect: =Select(Parent)
@@ -62,6 +79,8 @@ Screen1 As screen:
             ZIndex: =4
 
         Separator1 As rectangle:
+            BorderColor: =RGBA(92, 74, 168, 1)
+            Fill: =RGBA(92, 74, 168, 1)
             Height: =1
             OnSelect: =Select(Parent)
             Width: =Parent.TemplateWidth
